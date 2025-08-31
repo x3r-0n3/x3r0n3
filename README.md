@@ -22,7 +22,7 @@
 ### ⚔️ My Cybersecurity Repositories
 | Platform       | Repository Link |
 |----------------|-----------------|
-| 🧩 TryHackMe      | [TryHackMe Labs](https://github.com/VoidQuantaX/TryHackMeLabs) |
+| 🧩 TryHackMe      | [TryHackMe Labs](https://github.com/VoidQuantaX/TryHackMe-Labs) |
 | 🌐 PortSwigger    | [PortSwigger Labs](https://github.com/VoidQuantaX/PortSwiggerLabs) |
 | 🛡️ HackTheBox     | [HackTheBox Writeups](https://github.com/VoidQuantaX/HTB-Labs) |
 | 🧰 Tools/Projects | [Cyber Tools](https://github.com/VoidQuantaX/Projects) |

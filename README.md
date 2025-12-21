@@ -38,16 +38,6 @@
 
 ---
 
-### 🐍 Contribution Snake (Hacker Style)
-![Snake animation](https://github.com/VoidQuantaX/VoidQuantaX/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🎯 Random Cyber Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
----
-
 <p align="center">
    ⚡ Exploit, Learn, Secure — Repeat ⚡
 </p>

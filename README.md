@@ -1,7 +1,7 @@
 <h1 align="center">👾 Welcome to My Cyber Realm👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+my+GitHub;Cyber+Security+Enthusiast;Offensive+Security+Pentester+%7C+Red+Teaming;Cloud+Intrusion+%7C+Pentesting;Building+Cyber+Tools;Breaking+%26+Fixing+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+my+GitHub;Cyber+Security+Enthusiast;Offensive+Security+Pentester+%7C+Red+Teaming;Cloud+Intrusion+%7C+Pentesting;Building+Security+Tools;Breaking+%26+Fixing+Things" alt="Typing SVG" />
 </p>
 
 ---

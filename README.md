@@ -22,17 +22,17 @@
 ### ⚔️ My Cybersecurity Repositories
 | Platform       | Repository Link |
 |----------------|-----------------|
-| 🧩 TryHackMe      | [TryHackMe Labs](https://github.com/VoidQuantaX/TryHackMe-Labs) |
-| 🌐 PortSwigger    | [PortSwigger Labs](https://github.com/VoidQuantaX/PortSwigger-Labs) |
-| 🛡️ HackTheBox     | [HackTheBox Writeups](https://github.com/VoidQuantaX/HTB-Labs) |
+| 🧩 TryHackMe      | [TryHackMe Labs](https://github.com/01-x3r0n3/TryHackMe-Labs) |
+| 🌐 PortSwigger    | [PortSwigger Labs](https://github.com//01-x3r0n3/PortSwigger-Labs) |
+| 🛡️ HackTheBox     | [HackTheBox Writeups](https://github.com//01-x3r0n3/HTB-Labs) |
 
 ---
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoidQuantaX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidQuantaX&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidQuantaX&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=/01-x3r0n3&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=/01-x3r0n3&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/01-x3r0n3&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
